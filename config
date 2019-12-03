@@ -1,0 +1,7 @@
+dataset_dir: ../dataset
+save_dir: ../model
+result_dir: ../result
+dataset: amazon
+inside_iteration: 10
+num_negative: 1
+batch_size: 1000
